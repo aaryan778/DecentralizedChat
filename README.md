@@ -1,4 +1,4 @@
-# X:/Anonymous
+# Decentralized Chat
 
 ## Cryptographic algorithms and functions used in this project haven't been fully reviewed, so don't use this for any seriously sensitive data. 
 
