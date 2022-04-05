@@ -647,7 +647,7 @@ document.addEventListener("DOMContentLoaded", function(e) {
 					document.getElementsByClassName("add-button")[0].style.padding = "0 20px 0 30px";
 					document.getElementsByClassName("input-field-overlay")[0].style.display = "block";
 					join_conversation();
-					document.getElementsByTagName("title")[0].textContent = get_code() + " - " + "X:/Anonymous";
+					document.getElementsByTagName("title")[0].textContent = get_code() + " - " + "AnonChat";
 					set_remaining_characters();
 				}
 				if(!empty(window.localStorage.getItem("preference-theme")) && window.localStorage.getItem("preference-theme") == "dark") {
