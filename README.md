@@ -1,4 +1,4 @@
-# Decentralized Chat
+# Decentralized Chat (AnonChat)
 
 ### How to use:
 
